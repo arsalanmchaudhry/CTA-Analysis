@@ -1,0 +1,17 @@
+C:/Users/Arsalan/Desktop/project08/CTA-Analysis/CTA/bin/Debug/CTA.exe.config
+C:/Users/Arsalan/Desktop/project08/CTA-Analysis/CTA/bin/Debug/CTA.exe
+C:/Users/Arsalan/Desktop/project08/CTA-Analysis/CTA/bin/Debug/CTA.pdb
+C:/Users/Arsalan/Desktop/project08/CTA-Analysis/CTA/obj/Debug/CTA.csprojResolveAssemblyReference.cache
+C:/Users/Arsalan/Desktop/project08/CTA-Analysis/CTA/obj/Debug/CTA.Form1.resources
+C:/Users/Arsalan/Desktop/project08/CTA-Analysis/CTA/obj/Debug/CTA.Properties.Resources.resources
+C:/Users/Arsalan/Desktop/project08/CTA-Analysis/CTA/obj/Debug/CTA.csproj.GenerateResource.Cache
+C:/Users/Arsalan/Desktop/project08/CTA-Analysis/CTA/obj/Debug/CTA.csproj.CoreCompileInputs.cache
+C:/Users/Arsalan/Desktop/project08/CTA-Analysis/CTA/obj/Debug/CTA.exe
+C:/Users/Arsalan/Desktop/project08/CTA-Analysis/CTA/obj/Debug/CTA.pdb
+/Volumes/Transcend/UIC/ComputerScienceClasses/341/Arsalans/Projects/proj8/CTA-Analysis/CTA/obj/Debug/CTA.csprojAssemblyReference.cache
+/Volumes/Transcend/UIC/ComputerScienceClasses/341/Arsalans/Projects/proj8/CTA-Analysis/CTA/obj/Debug/CTA.Form1.resources
+/Volumes/Transcend/UIC/ComputerScienceClasses/341/Arsalans/Projects/proj8/CTA-Analysis/CTA/obj/Debug/CTA.Properties.Resources.resources
+/Volumes/Transcend/UIC/ComputerScienceClasses/341/Arsalans/Projects/proj8/CTA-Analysis/CTA/obj/Debug/CTA.csproj.GenerateResource.cache
+/Volumes/Transcend/UIC/ComputerScienceClasses/341/Arsalans/Projects/proj8/CTA-Analysis/CTA/obj/Debug/CTA.csproj.CoreCompileInputs.cache
+/Volumes/Transcend/UIC/ComputerScienceClasses/341/Arsalans/Projects/proj8/CTA-Analysis/CTA/obj/Debug/CTA.exe
+/Volumes/Transcend/UIC/ComputerScienceClasses/341/Arsalans/Projects/proj8/CTA-Analysis/CTA/obj/Debug/CTA.pdb
